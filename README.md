@@ -189,38 +189,44 @@ Continuous improvement process established
 Projects are concrete implementations that bring MOE Project's vision to life.
 
 Foundation
--　[　]MOE Project Repository
-[]Technical Blog
-[]Portfolio Website
+
+- [ ] MOE Project Repository
+- [ ] Technical Blog
+- [ ] Portfolio Website
 
 Character Creation
-[]VRM Viewer
-[]Live2D Viewer
-[]Character Gallery
+
+- [ ] VRM Viewer
+- [ ] Live2D Viewer
+- [ ] Character Gallery
 
 Character Interaction
-[]Face Tracking System
-[]Hand Tracking System
-[]AI Character System
+
+- [ ] Face Tracking System
+- [ ] Hand Tracking System
+- [ ] AI Character System
 
 Communication & Streaming
-[]Speech Recognition System
-[]Text-to-Speech System
-[]OBS Support Tools
-[]Comment Viewer
-[]Streaming Dashboard
+
+- [ ] Speech Recognition System
+- [ ] Text-to-Speech System
+- [ ] OBS Support Tools
+- [ ] Comment Viewer
+- [ ] Streaming Dashboard
 
 Creator Support
-[]Thumbnail Generator
-[]Clip Management Tool
-[]Motion Utility Tools
-[]AI Assistant for VTubers
+
+- [ ] Thumbnail Generator
+- [ ] Clip Management Tool
+- [ ] Motion Utility Tools
+- [ ] AI Assistant for VTubers
 
 Platform Development
-[]MOE Platform
-[]Public API
-[]Open Source Libraries
-[]Developer Community
+
+- [ ] MOE Platform
+- [ ] Public API
+- [ ] Open Source Libraries
+- [ ] Developer Community
 
 ## Tech Stack
 
