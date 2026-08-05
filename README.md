@@ -138,12 +138,18 @@ Phase 1: Character Viewer
 
 Goal: Display a character in an interactive environment.
 
-Definition of Done
+Definition of Done:
+
 Character viewer implemented
+
 Source code published
+
 README completed
+
 Demo available
+
 Technical article published
+
 Future improvements documented
 
 
@@ -151,11 +157,16 @@ Phase 2: Character Motion
 
 Goal: Enable characters to move naturally.
 
-Definition of Done
+Definition of Done:
+
 Tracking system implemented
+
 Character motion reflected
+
 Source code published
+
 Demo available
+
 Technical article published
 
 
@@ -163,10 +174,14 @@ Phase 3: Character Voice
 
 Goal: Enable characters to communicate through voice and AI.
 
-Definition of Done
+Definition of Done:
+
 Speech recognition implemented
+
 Text-to-speech implemented
+
 AI conversation system created
+
 Source code and documentation published
 
 
@@ -174,10 +189,14 @@ Phase 4: Streaming
 
 Goal: Create a system capable of supporting VTuber streaming.
 
-Definition of Done
+Definition of Done:
+
 Streaming-related functionality implemented
+
 OBS or streaming tools integrated
+
 Demo available
+
 Technical documentation published
 
 
@@ -185,10 +204,14 @@ Phase 5: Creator Tools
 
 Goal: Create useful tools for VTubers and creators.
 
-Definition of Done
+Definition of Done:
+
 Practical tool developed
+
 User needs identified
+
 Tool publicly available
+
 Feedback collected and improvements planned
 
 
@@ -196,9 +219,12 @@ Phase 6: MOE Platform
 
 Goal: Develop a complete platform for creating emotional experiences.
 
-Definition of Done
+Definition of Done:
+
 Service publicly released
+
 Users can access and use the service
+
 Continuous improvement process established
 
 ## Projects
