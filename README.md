@@ -153,7 +153,7 @@ Definition of Done:
 
 - [x] GitHub repository created
 - [x] Project README completed
-- [ ] Development environment prepared
+- [x] Development environment prepared
 - [ ] Project structure defined
 
 ### Phase 1: Character Viewer
@@ -302,21 +302,14 @@ MOE Project explores technologies for creating emotional experiences.
 
 Current Phase:
 
-Phase 0 - Foundation
+### Phase 0: Foundation
 
 Completed:
 
 - [x] GitHub repository created
-- [x] Project concept defined
-- [x] Mission / Vision / Value defined
-- [ ] Development environment prepared
-- [ ] First project started
-
-Upcoming:
-
-- Character Viewer development
-- Technical articles
-- Public demos
+- [x] Project README completed
+- [x] Development environment prepared
+- [ ] Project structure defined
 
 ## Blog & Portfolio
 
