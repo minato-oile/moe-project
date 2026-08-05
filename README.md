@@ -154,7 +154,7 @@ Definition of Done:
 - [x] GitHub repository created
 - [x] Project README completed
 - [x] Development environment prepared
-- [ ] Project structure defined
+- [x] Project structure defined
 
 ### Phase 1: Character Viewer
 
@@ -309,7 +309,18 @@ Completed:
 - [x] GitHub repository created
 - [x] Project README completed
 - [x] Development environment prepared
-- [ ] Project structure defined
+- [x] Project structure defined
+
+upcoming:
+
+### Phase 1: Character Viewer
+
+- [ ] Character viewer implemented
+- [ ] Source code published
+- [ ] README completed
+- [ ] Demo available
+- [ ] Technical article published
+- [ ] Future improvements documented
 
 ## Blog & Portfolio
 
