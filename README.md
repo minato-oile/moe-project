@@ -302,17 +302,6 @@ MOE Project explores technologies for creating emotional experiences.
 
 Current Phase:
 
-### Phase 0: Foundation
-
-Completed:
-
-- [x] GitHub repository created
-- [x] Project README completed
-- [x] Development environment prepared
-- [x] Project structure defined
-
-upcoming:
-
 ### Phase 1: Character Viewer
 
 - [ ] Character viewer implemented
