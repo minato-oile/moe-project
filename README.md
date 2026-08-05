@@ -189,7 +189,7 @@ Continuous improvement process established
 Projects are concrete implementations that bring MOE Project's vision to life.
 
 Foundation
--[]MOE Project Repository
+-　[　]MOE Project Repository
 []Technical Blog
 []Portfolio Website
 
