@@ -14,11 +14,11 @@ Technology is not our destination. It is the tool we use to create emotional exp
 
 ## Mission / Vision / Value
 
-Mission: Create Moments of Emotion through Technology 
+### Mission: Create Moments of Emotion through Technology 
 
-Vision: Deliver emotional experiences to the world through technology
+### Vision: Deliver emotional experiences to the world through technology
 
-Value: Create experiences with the user at the center
+### Value: Create experiences with the user at the center
 
 ## Production Pipeline
 
