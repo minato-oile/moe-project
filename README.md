@@ -270,10 +270,83 @@ Platform Development
 
 ## Tech Stack
 
+## Tech Stack
+
+MOE Project explores technologies for creating emotional experiences.
+
+### Character
+
+- VRM
+- Live2D
+- Blender
+- Unity
+
+### Interactive Systems
+
+- AI / LLM
+- Speech Recognition
+- Text-to-Speech
+- Motion Tracking
+
+### Application Development
+
+- TypeScript
+- React
+- Web Technologies
+- APIs
+
+### Infrastructure
+
+- Cloud Computing
+- Databases
+- Networking
+
 ## Progress
+
+## Progress
+
+Current Phase:
+
+Phase 0 - Foundation
+
+Completed:
+
+- [x] GitHub repository created
+- [x] Project concept defined
+- [x] Mission / Vision / Value defined
+- [ ] Development environment prepared
+- [ ] First project started
+
+Upcoming:
+
+- Character Viewer development
+- Technical articles
+- Public demos
 
 ## Blog & Portfolio
 
+Development logs and technical articles will be published here.
+
+Future contents:
+
+- Technical articles
+- Project documentation
+- Development notes
+- Demos
+
 ## Repository Structure
+
+moe-project/
+
+├── projects/
+│ ├── character-viewer/
+│ ├── ai-character/
+│ └── creator-tools/
+│
+├── docs/
+│
+├── articles/
+│
+└── README.md
 
 ## License
