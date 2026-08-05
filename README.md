@@ -145,8 +145,7 @@ A development roadmap focused on building real experiences through the cycle:
 
 Learn → Build → Write
 
-
-Phase 0: Foundation
+### Phase 0: Foundation
 
 Goal: Establish the foundation of MOE Project.
 
@@ -157,7 +156,7 @@ Definition of Done:
 - [ ] Development environment prepared
 - [ ] Project structure defined
 
-Phase 1: Character Viewer
+### Phase 1: Character Viewer
 
 Goal: Display a character in an interactive environment.
 
@@ -170,7 +169,7 @@ Definition of Done:
 - [ ] Technical article published
 - [ ] Future improvements documented
 
-Phase 2: Character Motion
+### Phase 2: Character Motion
 
 Goal: Enable characters to move naturally.
 
@@ -182,7 +181,7 @@ Definition of Done:
 - [ ] Demo available
 - [ ] Technical article published
 
-Phase 3: Character Voice
+### Phase 3: Character Voice
 
 Goal: Enable characters to communicate through voice and AI.
 
@@ -193,7 +192,7 @@ Definition of Done:
 - [ ] AI conversation system created
 - [ ] Source code and documentation published
 
-Phase 4: Streaming
+### Phase 4: Streaming
 
 Goal: Create a system capable of supporting VTuber streaming.
 
@@ -204,7 +203,7 @@ Definition of Done:
 - [ ] Demo available
 - [ ] Technical documentation published
 
-Phase 5: Creator Tools
+### Phase 5: Creator Tools
 
 Goal: Create useful tools for VTubers and creators.
 
@@ -215,7 +214,7 @@ Definition of Done:
 - [ ] Tool publicly available
 - [ ] Feedback collected and improvements planned
 
-Phase 6: MOE Platform
+### Phase 6: MOE Platform
 
 Goal: Develop a complete platform for creating emotional experiences.
 
@@ -228,25 +227,25 @@ Goal: Develop a complete platform for creating emotional experiences.
 
 Projects are concrete implementations that bring MOE Project's vision to life.
 
-Foundation
+### Foundation
 
 - [ ] MOE Project Repository
 - [ ] Technical Blog
 - [ ] Portfolio Website
 
-Character Creation
+### Character Creation
 
 - [ ] VRM Viewer
 - [ ] Live2D Viewer
 - [ ] Character Gallery
 
-Character Interaction
+### Character Interaction
 
 - [ ] Face Tracking System
 - [ ] Hand Tracking System
 - [ ] AI Character System
 
-Communication & Streaming
+### Communication & Streaming
 
 - [ ] Speech Recognition System
 - [ ] Text-to-Speech System
@@ -254,14 +253,14 @@ Communication & Streaming
 - [ ] Comment Viewer
 - [ ] Streaming Dashboard
 
-Creator Support
+### Creator Support
 
 - [ ] Thumbnail Generator
 - [ ] Clip Management Tool
 - [ ] Motion Utility Tools
 - [ ] AI Assistant for VTubers
 
-Platform Development
+### Platform Development
 
 - [ ] MOE Platform
 - [ ] Public API
