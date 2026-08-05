@@ -152,7 +152,7 @@ Goal: Establish the foundation of MOE Project.
 Definition of Done:
 
 - [x] GitHub repository created
-- [ ] Project README completed
+- [x] Project README completed
 - [ ] Development environment prepared
 - [ ] Project structure defined
 
