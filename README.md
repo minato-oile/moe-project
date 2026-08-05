@@ -229,7 +229,7 @@ Projects are concrete implementations that bring MOE Project's vision to life.
 
 ### Foundation
 
-- [ ] MOE Project Repository
+- [x] MOE Project Repository
 - [ ] Technical Blog
 - [ ] Portfolio Website
 
