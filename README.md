@@ -68,48 +68,75 @@ The knowledge areas required to create emotional experiences with technology.
 Technologies for designing and building characters.
 
 Live2D
+
 3D Graphics
+
 VRM
+
 Blender
+
 Character Design
+
 Generative AI
+
 2. Animate Characters
 
 Technologies for bringing characters to life.
 
 Motion Capture
+
 Tracking
+
 XR (VR / AR)
+
 Unity
+
 Unreal Engine
+
 3. Enable Characters to Communicate
 
 Technologies for interactive communication.
 
 Audio Processing
+
 Speech Recognition
+
 Text-to-Speech
+
 Large Language Models (LLM)
+
 AI Conversation Systems
+
 4. Deliver Experiences
 
 Technologies for delivering experiences to users.
 
 Web Development
+
 APIs
+
 OBS
+
 WebRTC
+
 Cloud Computing
+
 Infrastructure
+
 5. Create Loved Experiences
 
 Technologies and knowledge for creating experiences users love.
 
 UI/UX Design
+
 Animation
+
 Data Analysis
+
 Entertainment Industry Research
+
 Community Building
+
 Marketing
 
 ## Roadmap
