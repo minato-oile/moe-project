@@ -270,8 +270,6 @@ Platform Development
 
 ## Tech Stack
 
-## Tech Stack
-
 MOE Project explores technologies for creating emotional experiences.
 
 ### Character
@@ -300,8 +298,6 @@ MOE Project explores technologies for creating emotional experiences.
 - Cloud Computing
 - Databases
 - Networking
-
-## Progress
 
 ## Progress
 
