@@ -118,6 +118,7 @@ A development roadmap focused on building real experiences through the cycle:
 
 Learn → Build → Write
 
+
 Phase 0: Foundation
 
 Goal: Establish the foundation of MOE Project.
@@ -127,6 +128,8 @@ GitHub repository created
 Project README completed
 Development environment prepared
 Project structure defined
+
+
 Phase 1: Character Viewer
 
 Goal: Display a character in an interactive environment.
@@ -138,6 +141,8 @@ README completed
 Demo available
 Technical article published
 Future improvements documented
+
+
 Phase 2: Character Motion
 
 Goal: Enable characters to move naturally.
@@ -148,6 +153,8 @@ Character motion reflected
 Source code published
 Demo available
 Technical article published
+
+
 Phase 3: Character Voice
 
 Goal: Enable characters to communicate through voice and AI.
@@ -157,6 +164,8 @@ Speech recognition implemented
 Text-to-speech implemented
 AI conversation system created
 Source code and documentation published
+
+
 Phase 4: Streaming
 
 Goal: Create a system capable of supporting VTuber streaming.
@@ -166,6 +175,8 @@ Streaming-related functionality implemented
 OBS or streaming tools integrated
 Demo available
 Technical documentation published
+
+
 Phase 5: Creator Tools
 
 Goal: Create useful tools for VTubers and creators.
@@ -175,6 +186,8 @@ Practical tool developed
 User needs identified
 Tool publicly available
 Feedback collected and improvements planned
+
+
 Phase 6: MOE Platform
 
 Goal: Develop a complete platform for creating emotional experiences.
