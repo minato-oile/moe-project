@@ -24,17 +24,6 @@ Technology is not our destination. It is the tool we use to create emotional exp
 
 The process of creating moments of emotion through technology.
 
-Plan
- ↓
-Create
- ↓
-Animate
- ↓
-Communicate
- ↓
-Deliver
- ↓
-Connect
 1. Plan
 
 Design the concept, character, world, and user experience.
