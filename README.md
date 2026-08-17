@@ -218,7 +218,8 @@ Definition of Done:
 
 Goal: Develop a complete platform for creating emotional experiences.
 
-- [ ] Definition of Done:
+Definition of Done:
+
 - [ ] Service publicly released
 - [ ] Users can access and use the service
 - [ ] Continuous improvement process established
